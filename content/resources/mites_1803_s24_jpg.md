@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/differential-equations/mites_1803_s24.jpg
+file: /ol-ocw-studio-app/courses/es-1803-differential-equations-spring-2024/mites_1803_s24.jpg
 file_size: 149027
 file_type: image/jpeg
 image_metadata:
