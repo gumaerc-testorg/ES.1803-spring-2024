@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/differential-equations/mites_1803_s24_practice-quiz7-qa.pdf
+file: /ol-ocw-studio-app/courses/es-1803-differential-equations-spring-2024/mites_1803_s24_practice-quiz7-qa.pdf
 file_size: 423036
 file_type: application/pdf
 image_metadata:

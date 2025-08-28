@@ -35,12 +35,13 @@
   "extra_course_numbers": "",
   "primary_course_number": "ES.1803",
   "learning_resource_types": [
-    "Online Textbook",
+    "Open Textbooks",
     "Lecture Notes",
     "Readings",
     "Problem Sets with Solutions",
     "Exams with Solutions"
   ],
   "site_uid": "895503c6-1aea-4579-a9b6-01126f7ebbe2",
-  "site_short_id": "ES.1803-spring-2024"
+  "site_short_id": "ES.1803-spring-2024",
+  "site_url_path": "courses/es-1803-differential-equations-spring-2024"
 }

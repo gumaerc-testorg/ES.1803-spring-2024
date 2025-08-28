@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/differential-equations/matlab-tut3-eig.pdf
+file: /ol-ocw-studio-app/courses/es-1803-differential-equations-spring-2024/matlab-tut3-eig.pdf
 file_size: 78480
 file_type: application/pdf
 image_metadata:
