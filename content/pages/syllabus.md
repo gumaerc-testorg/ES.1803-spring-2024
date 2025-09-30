@@ -14,13 +14,13 @@ Recitations: 1 session/week, 50 minutes/session
 
 ## Prerequisites/Corequisites
 
-There is no prerequisite. [*18.02 Multivariable Calculus*](https://ocw.mit.edu/courses/18-02sc-multivariable-calculus-fall-2010/) is a corequisite, meaning students can take 18.02 and ES.1803 simultaneously.
+There is no prerequisite. {{% resource_link "9b59b745-970c-401f-b66a-a8a98d02e37f" "*18.02 Multivariable Calculus*" %}} is a corequisite, meaning students can take 18.02 and ES.1803 simultaneously.
 
 ## Course Description
 
-The class is taught in MIT's [Experimental Study Group](https://esg.mit.edu/) (ESG). ESG is one of MIT's first-year learning communities. It is open to all first-year students, with selection by lottery. The program is limited to about 50 students and class size is usually between 4 and 12 students. The small classes allow us teach interactively and stay in close touch with what every student is finding easy or difficult.
+The class is taught in MIT's {{% resource_link "10040a8d-7d0c-4392-b35a-3a5af3b97dd4" "Experimental Study Group" %}} (ESG). ESG is one of MIT's first-year learning communities. It is open to all first-year students, with selection by lottery. The program is limited to about 50 students and class size is usually between 4 and 12 students. The small classes allow us teach interactively and stay in close touch with what every student is finding easy or difficult.
 
-The course is equivalent to the Mathematics Department's [*18.03 Differential Equations*](https://ocw.mit.edu/courses/18-03sc-differential-equations-fall-2011/). They satisfy the same prerequisites and are geared to preparing students for downstream science and engineering classes.
+The course is equivalent to the Mathematics Department's {{% resource_link "a4e257a3-0fbe-4642-89d8-74af26b0eb6a" "*18.03 Differential Equations*" %}}. They satisfy the same prerequisites and are geared to preparing students for downstream science and engineering classes.
 
 This class met 5 times a week: four times with the instructor and once with a Teaching Assistant (TA). Class-time was a mix of interactive lecture, problem solving, and discussion. The students prepared with a reading assignment from the topic notes. Also prior to each class, we posted lecture notes, which gave an outline of what we would do in class, and a set of in-class problems with solutions. The TA led the recitation session. Recitation (also called Problem Section) was similar in spirit, except that no new material was introduced. The majority of the recitation time was devoted to students working problems in groups with help from the TA. In both class and recitation, we did not expect to cover all the problems on the problem sheets. The rest were available for self-study and quiz review.
 
@@ -36,7 +36,7 @@ As we moved more materials online and especially after adding the unit on linear
 
 ## Homework
 
-There were nine {{% resource_link "3ff30b95-0561-4780-b09e-8e3261c414b6" "problem sets" %}}. We created a problem set checker hosted on the [MIT Open Learning Library](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+ES.1803+2023_Fall/course/#block-v1:MITx+ES.1803+2023_Fall+type@chapter+block@pset_checkers). This allowed students to check their answers as they did the problem set. The checker only said whether they were right or wrong. It did not give them the correct answer. Homework was graded on correctness and clarity.
+There were nine {{% resource_link "3ff30b95-0561-4780-b09e-8e3261c414b6" "problem sets" %}}. We created a problem set checker hosted on the {{% resource_link "6a87b624-67fd-4d68-962c-81d309eca714" "MIT Open Learning Library" %}}. This allowed students to check their answers as they did the problem set. The checker only said whether they were right or wrong. It did not give them the correct answer. Homework was graded on correctness and clarity.
 
 ## Quizzes
 
